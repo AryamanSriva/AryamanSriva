@@ -48,8 +48,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AryamanSriva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryamansriva&show_icons=true&locale=en&layout=compact" alt="aryamansriva" /></p>
 </div>
+
 
 ###
 
